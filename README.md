@@ -1,2 +1,8 @@
-# spam-email-detection-using-logistic-regression
-This project implements a Spam Email Detection system using Machine Learning. The model uses Logistic Regression to classify emails as either Spam or Not Spam .
+# Spam Email Detection using Logistic Regression
+
+A simple Machine Learning project that uses **Logistic Regression** to classify emails as **Spam or Not Spam**.
+
+The project includes the basic Python code, model training, prediction, and output.
+
+**Technology:** Python, Scikit-learn, Logistic Regression
+
